@@ -1,0 +1,11 @@
+{
+  "description": "personal portfolio",
+  "repo": "https://github.com/amishaalazis/porto",
+  "owner": {
+    "username": "amishaalazis",
+    "email": "dptamisha@gmail.com"
+  },
+  "record": {
+    "CNAME": "project-ine5v.vercel.app"
+  }
+}
